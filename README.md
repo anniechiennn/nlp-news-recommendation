@@ -1,4 +1,4 @@
-# nlp-news-recommendation
+# Personalized News Recommendation System Using NLP
 **Motivation:**
 With a collective interest, group 5 decides to use a news dataset to examine news website users’ browsing patterns and apply their knowledge to build a model which helps websites recommend articles to viewers based on the patterns. Throughout the project, group 5 is expected to clean the data and apply unsupervised machine-learning techniques to help the publishers. They would also like to improve their skills along the way. 
 
